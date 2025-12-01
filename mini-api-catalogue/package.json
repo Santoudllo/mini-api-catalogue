@@ -1,0 +1,14 @@
+{
+  "name": "mini-api-catalogue",
+  "version": "1.0.0",
+  "description": "Mini API Catalogue avec erreurs volontaires",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.0"  
+  }
+}
